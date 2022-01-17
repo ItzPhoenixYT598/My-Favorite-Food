@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background: #2980B9;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to bottom, #FFFFFF, #6DD5FA, #2980B9);  /* Chrome 10-25, Safari 5.1-6 */
+}
+
+h1{
+    font-size: 19px;
+}
+
+h2{
+    font-size: 15px;
+}
+
+
+img:hover {
+    transform: scale(0.9)
+}
